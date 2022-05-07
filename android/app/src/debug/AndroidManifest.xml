@@ -1,0 +1,29 @@
+<!--
+  ~ Create by brunogambeta in 5/5/2022
+  ~
+  -->
+
+<!--
+  ~ Create by brunogambeta in 5 / 5 / 2022
+  ~ format(String "dd/MM/yyyy")
+  -->
+
+<!--
+  ~ Create by Bruno Cesar Gambeta in 5 / 5 / 2022
+  -->
+
+<!--
+  ~ Create by Bruno Cesar Gambeta in $today.dat / 5 / 2022
+  -->
+
+<!--
+  ~ $originalComment.match("Copyright (\d+)", 1, "-").
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.brunogambeta.mvp_app_trader">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
